@@ -1,0 +1,13 @@
+{
+    "aCoolThing": {
+        "version": 1,
+        "name": "a very cool thing",
+        "description": "a cool thing that is made for cool people",
+        "credits": "@fnuuy",
+        "tags": [
+            "eepy",
+            "sigma",
+            "goofy"
+        ]
+    }
+}
