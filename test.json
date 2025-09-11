@@ -1,7 +1,6 @@
 {
     "MoreAttributes": {
         "version": 1,
-        "open-source": false,
         "name": "More attributes",
         "description": "Shows all hidden attributes in a UI (official)",
     },
