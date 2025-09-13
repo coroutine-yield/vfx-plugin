@@ -1,6 +1,6 @@
 {
     "MoreAttributes": {
-        "version": 2,
+        "version": 1,
         "open_source": false,
         "name": "More attributes",
         "description": "Shows all hidden attributes in a UI. (ResetOnFinish, Clone, TweenStart/End++) They are built-in but this makes adding them easier."
