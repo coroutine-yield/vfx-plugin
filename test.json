@@ -3,6 +3,6 @@
         "version": 1,
         "open_source": false,
         "name": "More attributes!!1",
-        "description": "Shows all hidden attributes in a UI. (ResetOnFinish, Clone, etc) They are built-in but this makes adding them easier."
+        "description": "Shows all hidden attributes in a UI\n(ResetOnFinish, Clone, Random, etc)\nThey are built-in but this makes adding them easier."
     }
 }
