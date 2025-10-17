@@ -2,6 +2,6 @@
     "SimpleMeshVFX": {
         "version": 1,
         "name": "Simple Mesh VFX",
-        "description": "yayaessssss"
+        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more"
     }
 }
