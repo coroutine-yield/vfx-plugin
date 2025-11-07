@@ -5,11 +5,7 @@
     },
     "MoreAttributes": {
         "name": "More attributes & util",
-        "description": "Makes it easier to add plugin attributes\n- EmitIgnore, EmitClone, ResetOnFinish\n- They are built-in. not by the add-on\n- not finished yet (3 more attributes)"
+        "description": "Makes it easier to add plugin attributes\n- EmitIgnore, EmitClone, ResetOnFinish\n- They are built-in (don't require add-on)\n- not finished yet (3 more attributes)"
     },
-    "ScreenEffects": {
-        "name": "Screen effects",
-        "description": "CameraShake, ImpactFrames, and more!!1",
-        "bundled": true
-    }
+    "ScreenEffects": true
 }
