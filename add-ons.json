@@ -10,7 +10,8 @@
     },
     "ScreenEffects": {
         "name": "Screen effects",
-        "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit others enable",
+        "icon": 97990680261359,
+        "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
         "installed": true
     }
 }
