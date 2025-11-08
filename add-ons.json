@@ -6,6 +6,11 @@
     "MoreAttributes": {
         "name": "More attributes & util",
         "description": "Makes it easier to add plugin attributes\n- EmitIgnore, EmitClone, ResetOnFinish\n- They are built-in (don't require add-on)\n- not finished yet (3 more attributes)"
+        "open_source": true
     },
-    "ScreenEffects": true
+    "ScreenEffects": {
+        "name": "Screen effects",
+        "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit others enable"
+        "installed": true
+    }
 }
