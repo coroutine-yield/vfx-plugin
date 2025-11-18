@@ -1,11 +1,12 @@
 {
     "SimpleMeshVFX": {
         "name": "Simple Mesh VFX",
-        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
-        "install": "print(shared) return false"
+        "icon": 15045440879,
+        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more"
     },
     "MoreAttributes": {
         "name": "More attributes & util",
+        "icon": 136882854117051,
         "description": "Makes it easier to add plugin attributes\n- EmitIgnore, EmitClone, ResetOnFinish\n- They are built-in (don't require add-on)\n- not finished yet (3 more attributes)",
         "open_source": true
     },
@@ -13,6 +14,13 @@
         "name": "Screen effects",
         "icon": 97990680261359,
         "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
-        "installed": true
+        "install": true
+    },
+    "AnimationUtil": {
+        "name": "Animation util",
+        "icon": 99465108416174,
+        "iconScale": 0.6,
+        "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis",
+        "install": "print('testing install func', shared) return false"
     }
 }
