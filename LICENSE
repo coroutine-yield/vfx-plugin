@@ -1,7 +1,8 @@
-This license applies only to oss_library.json. All other files in this repository are not covered by this license.
+This license applies only to oss_library.json.
+"module" folder has it's own LICENSE file which you must read before using it.
 
 - You may use oss_library.json privately (in personal projects or private use).
 
-- You may NOT use it publicly in any way (commercially or not) without explicit permission from the copyright holder.
+- You may **not** use it publicly in any way (commercially or not) without explicit permission from the copyright holder.
 
 - The copyright holder reserves the right to tell any user of this file to stop using it at any time for any reason.
