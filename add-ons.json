@@ -2,7 +2,7 @@
     "SimpleMeshVFX": {
         "name": "Simple Mesh VFX",
         "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
-        "canInstall": "print(shared) return false"
+        "install": "print(shared) return false"
     },
     "MoreAttributes": {
         "name": "More attributes & util",
